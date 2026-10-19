@@ -1,0 +1,4 @@
+pydantic>=2.7,<3
+playwright>=1.50,<2
+rapidocr>=3.10,<4
+onnxruntime>=1.17,<2

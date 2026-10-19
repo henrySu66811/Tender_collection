@@ -1,0 +1,22 @@
+{
+  "http_requests": 5,
+  "detail_attempts": 3,
+  "stopped_reason": "",
+  "events": [
+    {
+      "event": "robots_response",
+      "url": "https://www.zycg.gov.cn/robots.txt",
+      "status": 404,
+      "headers": {
+        "server": "openresty",
+        "content-type": "text/html;charset=UTF-8"
+      }
+    },
+    {
+      "event": "robots",
+      "origin": "https://www.zycg.gov.cn",
+      "status": 404,
+      "rules_text": ""
+    }
+  ]
+}

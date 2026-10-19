@@ -1,0 +1,206 @@
+{
+  "http_requests": 95,
+  "detail_attempts": 41,
+  "stopped_reason": "",
+  "events": [
+    {
+      "event": "robots_response",
+      "url": "https://ggzyjyzx.shandong.gov.cn/robots.txt",
+      "status": 200,
+      "headers": {
+        "content-type": "text/plain"
+      }
+    },
+    {
+      "event": "robots",
+      "origin": "https://ggzyjyzx.shandong.gov.cn",
+      "status": 200,
+      "rules_text": "User-agent: Tomato Bot\r\n\r\nDisallow: /\r\n\r\n"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071474559",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071487955",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071501968",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071523565",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071602508",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071614067",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071694689",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071714489",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071746098",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071799663",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071828249",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071842456",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071864857",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071888279",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071938765",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071963793",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792071975897",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072029212",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072052675",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072073706",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072097353",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072138124",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072165995",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072210854",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072259662",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072274272",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072322625",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072370574",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072420161",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072472784",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072510051",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://tyjspt.shandong.gov.cn/vc/vc/interface/visit.jsp?type=3&i_webid=428&i_columnid=209869&i_articleid=11500907&url=https://ggzyjyzx.shandong.gov.cn/art/2026/10/15/art_209869_11500907.html",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://tyjspt.shandong.gov.cn/vc/vc/interface/visit.jsp?type=2&i_webid=428&i_columnid=209854&i_articleid=0&url=https://ggzyjyzx.shandong.gov.cn/col/col209854/index.html",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072560025",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://qiyukf.com/webapi/sdkres/delegate.html?k=8e7dc3b5a1e54c7223af10fca9960229&1792072586759",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://tyjspt.shandong.gov.cn/vc/vc/interface/visit.jsp?type=3&i_webid=428&i_columnid=209903&i_articleid=11501060&url=https://ggzyjyzx.shandong.gov.cn/art/2026/10/15/art_209903_11501060.html",
+      "type": "document"
+    },
+    {
+      "event": "out_of_scope_blocked",
+      "url": "https://tyjspt.shandong.gov.cn/vc/vc/interface/visit.jsp?type=3&i_webid=428&i_columnid=347672&i_articleid=11500034&url=https://ggzyjyzx.shandong.gov.cn/art/2026/10/15/art_347672_11500034.html",
+      "type": "document"
+    }
+  ]
+}

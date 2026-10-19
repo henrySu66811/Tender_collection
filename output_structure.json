@@ -1,0 +1,840 @@
+{
+  "qichacha": {
+    "samples": [
+      {
+        "keyword": "算力",
+        "status": "200",
+        "message": "【有效请求】查询成功",
+        "order_number": "TENDERCHECK2026101010541042602514",
+        "paging": {
+          "PageSize": 20,
+          "PageIndex": 1,
+          "TotalRecords": 2000
+        },
+        "result": {
+          "VerifyResult": 1,
+          "Data": [
+            {
+              "Id": "fhramypv5jbpbl5jvmaeemhs3ihis3kejk",
+              "Title": "【初始合同】深圳市宝安区松岗人民医院算力服务器租赁服务项目合同公示",
+              "ProjectNo": "BACG2026000260",
+              "ChannelName": "合同公示",
+              "Province": "广东省",
+              "City": "深圳市",
+              "IndustryDesc": "通讯电子",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gvk55yk3vakvbmkjkhrreb35h5js3vpphp",
+                  "Name": "深圳市宝安区松岗人民医院",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "12440306455769668K"
+                }
+              ],
+              "WinBidUnitList": [
+                {
+                  "WinBidAmt": "3189000",
+                  "KeyNo": "9abapyi3as9avh5jsapakk3hlha593ie5k",
+                  "Name": "中航智能建设（深圳）有限公司",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "91440300MA5DEYAX0X"
+                }
+              ],
+              "AgentUnitList": [],
+              "BidProgressList": [
+                "中标公告",
+                "合同"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "http://zfcg.szggzy.com:8081/gsgg/002002/002002001/20261010/91db4709-117d-4947-a423-485d50869dc8.html",
+              "ContractEndTime": "2029-10-08",
+              "content_text": "当前位置：\n首页> 公示公告> 合同公告> 合同公示\n【初始合同】深圳市宝安区松岗人民医院算力服务器租赁服务项目合同公示\n信息来源:\n信息提供日期：2026-10-10\n分享到：\n合同公告\n一、合同编号：CSHT-BACG2026000260-A-2026-1\n二、合同名称：深圳市宝安区松岗人民医院算力服务器租赁服务\n三、项目编号（\n或招标编号、政府采购计划编号、采购计划备案文号等），如有：BACG2026000260\n四、项目名称：深圳市宝安区松岗人民医院算力服务器租赁服务项目\n五、合同主体\n采购人（甲方）：深圳市宝安区松岗人民医院\n地址：深圳市宝安区松岗人民医院\n供应商（乙方）：中航智能建设（深圳）有限公司\n地址：深圳市龙华区民治街道北站社区鸿荣源北站中心B塔2006-2010\n六、合同主要信息\n主要标的名称：深圳市宝安区松岗人民医院算力服务器租赁服务项目\n规格型号（或服务要求）：华鲲振宇\n主要标的数量：2\n主要标的单价：1594500\n合同金额：3189000.00\n履约期限、地点等简要信息：2026年10月09日至2029年10月08日，深圳市宝安区松岗人民医院\n采购方式：公开招标\n七、合同签订日期：2026-10-09\n八、合同公告日期：2026-10-10\n九、其他补充事宜：本项目无其它补充事宜\n附件：\n深圳市宝安区松岗人民医院算力服务器算力服务器租赁合同（脱敏版）.pdf\n深圳市宝安区松岗人民医院算力服务器算力服务器租赁合同（脱敏版）.pdf\n关闭窗口\n打印此页\n内容纠错",
+              "content_status": "ok"
+            },
+            {
+              "Id": "5s9m5y9lbs9saebjbbvl3mplv33kmse3j5",
+              "Title": "湖北机场集团有限公司租用AI算力及配套支持平台项目流标公告",
+              "ProjectNo": "HBT-12324101-267225-1",
+              "ChannelName": "",
+              "Province": "湖北省",
+              "City": "武汉市",
+              "IndustryDesc": "其他",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-10 09:30",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "5vm9hy9a3vaskhmj5jhi5v5jjp3pji5sv5",
+                  "Name": "湖北机场集团有限公司",
+                  "Contact": "黄余奕劼",
+                  "TelNo": "027-85818287",
+                  "CreditCode": "91420000764112758R"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "0l53py5rpejvmk5jaam3vmpbphhh5mpjvr",
+                  "Name": "湖北省招标股份有限公司",
+                  "Contact": "李华聪、罗宽",
+                  "TelNo": "027-87273559",
+                  "CreditCode": "91420000722039564X"
+                }
+              ],
+              "BidProgressList": [
+                "中标公告",
+                "废标流标终止"
+              ],
+              "BidEndDate": "2026-10-10 09:30",
+              "ContentUrl": "https://cjyc.hbbidding.com.cn/hubeiyth/jyxx/004003/004003003/20261010/733d0038-1790-42e4-a05e-0f66704255d4.html",
+              "ContractEndTime": "",
+              "content_text": "",
+              "content_status": "empty"
+            },
+            {
+              "Id": "chevmy99ahvjka9jajmjh5pmpbimml5m9m",
+              "Title": "永康市公安局看守所监管场所视频智预警及存储升级改造项目中标(成交)结果公告",
+              "ProjectNo": "330784261100010000116-[2026]2993号-ZYCG-2026021",
+              "ChannelName": "中标(成交)结果公告",
+              "Province": "浙江省",
+              "City": "金华市",
+              "IndustryDesc": "通讯电子",
+              "BudgetAmt": "49.809万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-09 09:00",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gmsvsymjrh5akkkj3llms9e5aasemvkksl",
+                  "Name": "永康市公安局",
+                  "Contact": "周警官",
+                  "TelNo": "13758998346",
+                  "CreditCode": "113307840026132223"
+                }
+              ],
+              "WinBidUnitList": [
+                {
+                  "WinBidAmt": "496000元",
+                  "KeyNo": "5aebjyhkjlveissjr9abmh5ja9ramepi53",
+                  "Name": "中国移动通信集团浙江有限公司金华分公司",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "91330000717612477A"
+                }
+              ],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "5s9aryil3l9a35lj35hijvrbm35lrava9b",
+                  "Name": "浙江致远工程管理有限公司",
+                  "Contact": "任工",
+                  "TelNo": "13858918362",
+                  "CreditCode": "91330700254971536Q"
+                }
+              ],
+              "BidProgressList": [
+                "中标公告",
+                "中标成交"
+              ],
+              "BidEndDate": "2026-10-09 09:00",
+              "ContentUrl": "https://kjxy.zcygov.cn/luban/announcement/detail?encryptId=X1bfmnEgfZvpjZ+/ZS9VaITwhJI3yMqKEmeFXDD+K4I=",
+              "ContractEndTime": "",
+              "content_text": "首页\n浙江省本级\n早上好，欢迎来到政采云！\n请登录\n我的工作台\n我的关注\n商家支持\n服务中心\n公告\n我的工作台\n首页\n商品大全\n公告大厅\n首页\n公告大厅\n公告详情\n发布人： 来源： 发布时间： -浏览次数 0\n关于我们 联系我们 法律声明 隐私政策 浙江省网络食品销售第三方平台提供者备案：浙网食A33010011 出版物网络交易平台服务经营备案：新出发浙备字第202003号\n© 2016-现在 政采云股份有限公司 版权所有 增值电信业务经营许可证：浙B2-20160869 增值电信业务许可证（跨地区）：B2-20190004 浙ICP备16031199号-3 医疗器械网络交易服务第三方平台备案：(浙)网械平台备字[2022]第00012号 互联网药品信息服务资格证书：(浙)经营性2022-0060 药品网络交易第三方平台备案信息：（浙）网药平台备字〔2023〕第 000022-001 号 营业执照 浙公网安备 33010602010281号\nAccess Verification\nPlease slide to verify that you're not a robot\nTraceID: 2760828e17918599164578438efaec\nPlease slide to verify\n智能服务\n采云学院\n扫码下载",
+              "content_status": "ok"
+            },
+            {
+              "Id": "ev3srym3j3k9b9jjrphars9jhibs5ehasi",
+              "Title": "广东外语外贸大学行业应用软件开发服务AI云帆译二期建设项目招标公告",
+              "ProjectNo": "MCHY-ZC081PP26",
+              "ChannelName": "采购公告",
+              "Province": "广东省",
+              "City": "广州市",
+              "IndustryDesc": "工程建筑",
+              "BudgetAmt": "300万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-11-02 09:30",
+              "ObtainEndDate": "2026-10-16 23:59",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "x3aamy5hb5mlmppj5bishl5pjm3vep9h9j",
+                  "Name": "广东外语外贸大学",
+                  "Contact": "",
+                  "TelNo": "020-36207135",
+                  "CreditCode": "12440000455859532W"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "b3hray9jikaiaabja95ib5mm9kh5blpeal",
+                  "Name": "广东明诚宏毅采购咨询有限公司",
+                  "Contact": "张惠思",
+                  "TelNo": "13501530760、020-87372866-3228",
+                  "CreditCode": "91440101MA5D5PW82G"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "2026-11-02 09:30",
+              "ContentUrl": "https://gdgpo.czt.gd.gov.cn/maincms-web/noticeGd?type=notice&id=b80e4958-8f18-4df3-b9c3-62e46438268f",
+              "ContractEndTime": "",
+              "content_text": "中国政府采购网广东分网\n广东省政府采购网\n首页\n通知公告\n政策法规\n政府购买服务\n采购项目信息\n专题聚焦\n监管信息\n机构名录\n办事指南\n云城区2026年第三季度政府采购项目信用评价结果公告\n广州市财政局关于加强政府采购评审专家入库资料管理的通知\n清远市佛冈县2026年第三季度政府采购项目信用评价结果\n关于恢复政府采购活动的通知\n汕头市财政局转发关于做好2026年政府采购脱贫地区农副产品工作的通知（汕市财采〔2026〕8号）\n乐财采投〔2026〕3号 关于暂停政府采购活动的通知\n广东省财政厅公布政府采购违法违规典型案例（第二批）\n政府采购投诉不予受理通知书\n暂停政府采购活动通知书（雄财采投【2026】20号）\n乐财采投〔2026〕1号 政府采购投诉不予受理通知书\n你的位置：\n首页\n相关公告\n采购需求\n资格预审公告\n采购公告\n中标（成交）结果公告\n更正公告\n终止公告\n合同公告\n验收公告\n发布机构：发布时间：\n采购计划编号：\n免责声明\n根据《政府采购信息发布管理办法》（财政部令第101号），本页面提供的政府采购信息由采购人或采购代理机构发布，由发布机构对真实性、准确性、合法性负责，广东省政府采购网对其内容概不负责，亦不承担任何法律责任。\n广东省财政厅版权所有 | 主办: 广东省财政厅 | 技术支持/业务服务保障单位：博思数采科技股份有限公司 |\n联系电话：020-88696588 | 粤 ICP备：20008773号 | 粤公安网备： 4401040102029 |\n广东财政\n微信二维码",
+              "content_status": "ok"
+            },
+            {
+              "Id": "0hl35yvkp9aesppj39lm3iri3kh5h9prm3",
+              "Title": "昌吉州数字化发展局昌吉州州直单位政务应用系统等baomi评统一招标采购项目合同公告",
+              "ProjectNo": "CJZFCG-GK-2026065",
+              "ChannelName": "采购合同公告",
+              "Province": "新疆维吾尔自治区",
+              "City": "昌吉回族自治州",
+              "IndustryDesc": "弱电安防",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gkrjayvs9ske35aj5p559bihpma95a59r3",
+                  "Name": "昌吉回族自治州数字化发展局",
+                  "Contact": "",
+                  "TelNo": "18167760221",
+                  "CreditCode": "11652300MB09229452"
+                }
+              ],
+              "WinBidUnitList": [
+                {
+                  "WinBidAmt": "4968800元",
+                  "KeyNo": "7smlpym9a3vrserj5pal33llas5ll9esrs",
+                  "Name": "新疆北中软科信息技术有限公司",
+                  "Contact": "",
+                  "TelNo": "15609947799",
+                  "CreditCode": "91652301MA77T0M397"
+                }
+              ],
+              "AgentUnitList": [],
+              "BidProgressList": [
+                "中标公告",
+                "合同"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "https://kjxy.zcygov.cn/luban/announcement/detail?encryptId=AcEUJP8Osa47HrJpmqGFCITwhJI3yMqKEmeFXDD+K4I=",
+              "ContractEndTime": "",
+              "content_text": "首页\n浙江省本级\n早上好，欢迎来到政采云！\n请登录\n我的工作台\n我的关注\n商家支持\n服务中心\n公告\n我的工作台\n首页\n商品大全\n公告大厅\n首页\n公告大厅\n公告详情\n昌吉州数字化发展局昌吉州州直单位政务应用系统等baomi评统一招标采购项目合同公告\n发布人： cjzbjcg252来源： 发布时间： 2026-10-10浏览次数 7\n一、合同编号：11NB0922945220269801\n二、合同名称：昌吉州数字化发展局昌吉州州直单位政务应用系统等baomi评统一招标采购项目合同\n三、项目编号：CJZFCG-GK-2026065\n四、项目名称：昌吉州数字化发展局昌吉州州直单位政务应用系统等baomi评统一招标采购项目\n五、合同主体\n采购人（甲方）：昌吉回族自治州数字化发展局\n地      址：昌吉州昌吉市建国路街道南公园西路与西外环交汇处昌吉州政务服务中心二楼\n联系方式：18167760221\n供应商（乙方）：新疆北中软科信息技术有限公司\n地      址：新疆昌吉回族自治州昌吉市中山路街道天山社区中山南路曦隆枫叶广场8楼813室（77区3丘21栋）\n联系方式：15609947799\n六、合同主体信息\n1.主要标的信息：\n主要标的名称：昌吉州数字化发展局昌吉州州直单位政务应用系统等baomi评统一招标采购项目\n数量：1.00\n单价（元）：4968800.00\n规格型号（或服务要求）：服务范围:采购人指定范围。\n服务要求:本项目严格依据《中华人民共和国密码法》《商用密码管理条例》《网络安全法》《数据安全法》、GB/T 39786-2021《信息安全技术 信息系统密码应用基本要求》、GB/T 22239-2019《网络安全等级保护基本要求》、《关键信息基础设施安全保护条例》等相关管理规范，依托已建成的昌吉回族自治州政务云平台商用密码集约化算力、商用密码资源池、密钥管理体系、身份认证网关、安全网关、商用密码服务接口能力\n服务时间:自签订合同之日起120个日历日内完成全部需求，保证完成网络安全等级保护测评及商用密码应用安全性评估服务并出具报告。\n服务标准:详见采购文件。\n2.合同金额（元）：4968800.00\n3.履约期限、地点等简要信息：\n4.采购方式：公开招标\n七、合同签订日期：2026年09月03日\n八、合同公告日期： 2026年10月10日\n九、其他补充事宜：无\n附件信息：\n500等保密评合同_20260930201530.pdf\n关于我们 联系我们 法律声明 隐私政策 浙江省网络食品销售第三方平台提供者备案：浙网食A33010011 出版物网络交易平台服务经营备案：新出发浙备字第202003号\n© 2016-现在 政采云股份有限公司 版权所有 增值电信业务经营许可证：浙B2-20160869 增值电信业务许可证（跨地区）：B2-20190004 浙ICP备16031199号-3 医疗器械网络交易服务第三方平台备案：(浙)网械平台备字[2022]第00012号 互联网药品信息服务资格证书：(浙)经营性2022-0060 药品网络交易第三方平台备案信息：（浙）网药平台备字〔2023〕第 000022-001 号 营业执照 浙公网安备 33010602010281号\n智能服务\n采云学院\n扫码下载",
+              "content_status": "ok"
+            },
+            {
+              "Id": "73lpbymhpbeahprj3maam9bk3hivvshrem",
+              "Title": "武汉重型机床集团有限公司仿真算力平台采购变更公告",
+              "ProjectNo": "C1100000096019006001",
+              "ChannelName": "变更(终止)公告",
+              "Province": "湖北省",
+              "City": "武汉市",
+              "IndustryDesc": "机械设备",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-27 09:00",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "5jbaeypvakr5aj9jlalsrkirrvabsvbpjm",
+                  "Name": "武汉重型机床集团有限公司",
+                  "Contact": "",
+                  "TelNo": "027-67810359",
+                  "CreditCode": "91420100177716557D"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [],
+              "BidProgressList": [
+                "招标公告",
+                "变更"
+              ],
+              "BidEndDate": "2026-10-27 09:00",
+              "ContentUrl": "https://bid.norincogroup-ebuy.com/ggInfo.do?pkid=14101&typ=1",
+              "ContractEndTime": "",
+              "content_text": "客服热线4000-555-811\n登录\n|\n首页\n|\n采购平台\n|\n我的工作台\n|\n会员俱乐部\n会员认证\n会员权益\n|\n我的应用\n|\n帮助中心\n我要招标\n我要投标\n当前位置：首页 >\n变更公告\n> 详情\n武汉重型机床集团有限公司仿真算力平台采购变更公告\n关注此项目\n关注后，可实时获得该招标项目的关键进度信息推送。\n货物信息电子计算机及网络设备\n招标方：武汉重型机床集团有限公司\n官方认证：该招标方为平台官方认证单位，招标信息真实可信。\n关注招标方\n关注后 ，可获得该招标方的招标公示公告信息推送。\n发布时间：2026-10-10 10:29:44，浏览次数：500\n\n招标公告\n武汉重型机床集团有限公司仿真算力平台采购招标公告\n2026-09-29 17:26:43\n\n变更公告\n武汉重型机床集团有限公司仿真算力平台采购变更公告\n2026-10-10 10:29:44\n\n开标\n\n候选公示\n\n结果公告\n点击\n关注此项目可实时获得招标项目的最新动态推送，商机不遗漏。\n\n返回\n阳光七采·兵纷招采电子招标投标交易平台 V4.0| ICP证：京B2-20192701| 京ICP备14016734号| 京公网安备11040102700044号\n中国兵工物资集团有限公司 版权所有\n在线客服\n智能客服\n\nebid@ordins.com\n\n4000-555-811\n意见箱\n\n",
+              "content_status": "ok"
+            },
+            {
+              "Id": "drb9rylerjljmslj39hapv5ppij9pvbvsh",
+              "Title": "浙江省科技信息研究院2026年11月至12月政府采购意向",
+              "ProjectNo": "",
+              "ChannelName": "政府采购意向公告",
+              "Province": "浙江省",
+              "City": "杭州市",
+              "IndustryDesc": "信息技术",
+              "BudgetAmt": "15万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "g5jkiyilerh5rkajk9bb3ehpi3k35pvlsv",
+                  "Name": "浙江省科技信息研究院",
+                  "Contact": "沈凯",
+                  "TelNo": "0571-81054283",
+                  "CreditCode": "12330000470031768A"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [],
+              "BidProgressList": [
+                "招标公告",
+                "预告"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "https://kjxy.zcygov.cn/luban/announcement/detail?encryptId=BYWqQraQPfwOdDAreFocdYTwhJI3yMqKEmeFXDD+K4I=",
+              "ContractEndTime": "",
+              "content_text": "首页\n浙江省本级\n早上好，欢迎来到政采云！\n请登录\n我的工作台\n我的关注\n商家支持\n服务中心\n公告\n我的工作台\n首页\n商品大全\n公告大厅\n首页\n公告大厅\n公告详情\n浙江省科技信息研究院2026年11月至12月政府采购意向\n发布人： 俞峻来源： 浙江省科技信息研究院发布时间： 2026-10-10浏览次数 190\n为便于供应商及时了解政府采购信息，根据《财政部关于开展政府采购意向公开工作的通知》（财库〔2020〕10号）等有关规定，现将浙江省科技信息研究院2026年11月至12月采购意向公开如下：\n采购单位\t浙江省科技信息研究院\n采购项目名称\t政府基础技术支撑保障（2026）\n预算金额（元）\t150000.00\n预留中小企业采购份额\t是\n落实政府采购政策功能情况  \t落实政府采购相关政策\n预计采购时间\t2026年11月\n采购需求概况\n标的名称：租赁算力资源\n数量/单位：1项\n预算金额（元）：150000.00\n采购目录：C23119900其他租赁服务\n需实现的主要功能或者目标：总体算力不低于400 TFLOPS（半精度浮点FP16）算力资源服务。节点GPU显存总容量不低于80GB。\n需满足的质量、服务、安全、时限等要求： 确保算力服务正常可用\n；确保算力服务稳定正常可用\n； 严格落实网络安全和数据安全相关要求\n； 服务期一年\n。\n联系人\t沈凯\n联系电话\t0571-81054283\n备注\t/\n浙江省科技信息研究院\n2026年10月10日\n本次公开的采购意向是本单位政府采购工作的初步安排，具体采购项目情况以相关采购公告和采购文件为准。\n关于我们 联系我们 法律声明 隐私政策 浙江省网络食品销售第三方平台提供者备案：浙网食A33010011 出版物网络交易平台服务经营备案：新出发浙备字第202003号\n© 2016-现在 政采云股份有限公司 版权所有 增值电信业务经营许可证：浙B2-20160869 增值电信业务许可证（跨地区）：B2-20190004 浙ICP备16031199号-3 医疗器械网络交易服务第三方平台备案：(浙)网械平台备字[2022]第00012号 互联网药品信息服务资格证书：(浙)经营性2022-0060 药品网络交易第三方平台备案信息：（浙）网药平台备字〔2023〕第 000022-001 号 营业执照 浙公网安备 33010602010281号\n智能服务\n采云学院\n扫码下载",
+              "content_status": "ok"
+            },
+            {
+              "Id": "6hb9by9i35hiialj9vkhhpvhlljm39vs53",
+              "Title": "黑龙江省档案馆数字档案馆配套设施采购（一期）政府采购合同公告",
+              "ProjectNo": "[230001]SC[GK]20260318",
+              "ChannelName": "合同公告",
+              "Province": "黑龙江省",
+              "City": "哈尔滨市",
+              "IndustryDesc": "信息技术",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gaap5y3ikm3e3kpje9kkmpla9eash9r3s5",
+                  "Name": "黑龙江省档案馆",
+                  "Contact": "张博",
+                  "TelNo": "15004518811",
+                  "CreditCode": "12230000001698041Y"
+                }
+              ],
+              "WinBidUnitList": [
+                {
+                  "WinBidAmt": "1498000元",
+                  "KeyNo": "em3a5ysbs535mrkjs5larklp5ljelsavva",
+                  "Name": "联通（黑龙江）产业互联网有限公司",
+                  "Contact": "袁少锋",
+                  "TelNo": "18603658116",
+                  "CreditCode": "91230109MA1B0TTB2B"
+                }
+              ],
+              "AgentUnitList": [],
+              "BidProgressList": [
+                "中标公告",
+                "合同"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "https://hljcg.hlj.gov.cn/maincms-web/noticeHlj?type=gp-notice-center&id=87b5d01c-6d42-4ba8-88b0-42a8b7779775&planId=8a1d0a4d9fcec780019ffa003c347d38&channel=c5bff13f-21ca-4dac-b158-cb40accd3035",
+              "ContractEndTime": "",
+              "content_text": "您好，欢迎访问黑龙江省政府采购网！\n服务热线：400-998-5566 转1    |    投诉热线：400-998-5566 转9\n区划切换\n黑龙江省政府采购网\n中国政府采购网分网\n首页\n新闻通知\n采购公告\n信息公开\n政策法规\n政策解读\n质疑投诉\n行政处罚\n代理机构名录\n监督检查\n机构职能\n框架协议\n金融服务\n电子卖场\n服务工程超市\n信用公示\nCA在线办理\n下载专区\n采购公告\n2026-08-24\n结果公告\n2026-09-14\n更正公告\n-- --\n废标公告\n-- --\n合同公告\n2026-10-10\n履约验收公告\n-- --\n质疑答复公开\n-- --\n黑龙江省档案馆数字档案馆配套设施采购（一期）政府采购合同公告\n【发布时间：2026-10-10 10:25:00 】\n一、合同编号：[230001]SC[GK]20260318-HT-2631278\n二、合同名称：数字档案馆配套设施采购（一期）\n三、项目编号：[230001]SC[GK]20260318\n四、项目名称：数字档案馆配套设施采购（一期）\n五、合同主体\n采购人(甲方)：黑龙江省档案馆\n地址：哈尔滨市南岗区文昌街48号\n联系方式：15004518811\n供应商(乙方)：联通（黑龙江）产业互联网有限公司\n地址：哈尔滨高新技术产业开发区创新三路600号科技大厦1610室\n联系方式：18603658116\n六、合同主要信息\n主要标的：\n序号\t名称\t数量(单位)\t单价(元)\t总价(元)\t规格型号/服务要求\n1\t通用服务器\t3(台)\t￥70,000.00\t￥210,000.00\tTaiShan2280\n2\t算力服务器\t1(台)\t￥680,000.00\t￥680,000.00\tLJ4289G\n3\tOFD版式套件\t1(套)\t￥120,000.00\t￥120,000.00\t（友虹可信版式处理套件[简称：SC-OFD Suite]V1.0.0）\n4\t数据库\t2(套)\t￥80,000.00\t￥160,000.00\t达梦数据库管理系统[简称:DM]V8.4\n5\t中间件\t3(套)\t￥35,000.00\t￥105,000.00\t东方通应用服务器软件[简称：tongweb-embed-8.0.E.7 ]V8.0\n6\t数据库集群\t1(套)\t￥60,000.00\t￥60,000.00\t达梦数据守护集群软件[简称：DM Datawatch]V9\n7\t中间件集群\t1(套)\t￥50,000.00\t￥50,000.00\t东方通负载均衡软件[简称：TongHttpServer] V6.0\n8\t机房核心设备运维\t1(项)\t￥80,000.00\t￥80,000.00\t【无】\n9\t集成服务\t1(项)\t￥33,000.00\t￥33,000.00\t【无】\n合同金额： 1,498,000.00元，大写(人民币)：壹佰肆拾玖万捌仟元整\n履约期限：2026年09月28日至2029年11月27日\n履约地点：哈尔滨市南岗区文昌街48号\n采购方式：公开招标\n七、合同签订日期\n2026年09月24日\n八、合同公告日期\n2026年10月10日\n九、其他补充事宜\n合同附件：\na5cb7aa1ab19454da628a375b2a454ca.pdf\n黑龙江省档案馆\n2026年10月10日\n版权所有：黑龙江省财政厅 | 地址：哈尔滨市南岗区建设街146号 | 邮编：150001 | 问题反映及举报信箱：hljscztzfcgglbgs@126.com\n网站标识码：2300000055 | 备案序号： 黑ICP备05002215号 |  黑公网安备：23010302001148\n主办单位：黑龙江省财政厅 | 承办单位：黑龙江省财政厅政府采购管理办公室 | 技术支持：博思数采科技股份有限公司 运维电话：4009985566按1号键\n网站地图",
+              "content_status": "ok"
+            },
+            {
+              "Id": "2rreryjem5hme9kjrv3vhh9krivsmhvkba",
+              "Title": "广西科文招标有限公司关于AI+安全靶场的竞争性谈判公告",
+              "ProjectNo": "NNZC2026-J1-990937-KWZB",
+              "ChannelName": "政府采购",
+              "Province": "广西壮族自治区",
+              "City": "南宁市",
+              "IndustryDesc": "工程建筑",
+              "BudgetAmt": "242万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-19 09:30",
+              "ObtainEndDate": "2026-10-19 23:59",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "xrsamy3hmvhkh3vjb9rls3ilar593jl3sj",
+                  "Name": "南宁职业技术大学",
+                  "Contact": "王雨",
+                  "TelNo": "0771-2029355",
+                  "CreditCode": "1245010049852461X5"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "fhhlmyapssrejrkja5spevksjm5psjkb9h",
+                  "Name": "广西科文招标有限公司",
+                  "Contact": "梁栩菁、梁伟贞",
+                  "TelNo": "0771-2023835",
+                  "CreditCode": "91450100732209491K"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "2026-10-19 09:30",
+              "ContentUrl": "http://www.zgggzy.com/jyxm/show.php?itemid=168705",
+              "ContractEndTime": "",
+              "content_text": "新闻中心\n文档下载\n交易项目\n结果公示\n交易实务\n设为首页|添加收藏\n网站首页\n新闻中心\n文档下载\n交易项目\n结果公示\n交易实务\n交易项目\n当前位置：首页 > 交易项目  > 采购信息\n广西科文招标有限公司关于AI+安全靶场的竞争性谈判公告\n时间：2026-10-10阅读：107\n项目概况\nAI+安全靶场采购项目的潜在供应商应在广西政府采购云平台线上获取获取采购文件，并于2026年10月19日 09:30（北京时间）前提交响应文件。\n一、项目基本情况\n项目编号：NNZC2026-J1-990937-KWZB\n项目名称：AI+安全靶场\n采购方式：竞争性谈判\n预算总金额（元）：2420000\n采购需求：\n标项一\n标项名称:AI+安全靶场（1分标）\n数量:不限\n预算金额（元）:1278000\n简要规格描述或项目基本概况介绍、用途：算力底座（交换机）2台、算力底座（机柜和电源）2个、靶场边界防火墙1台、红蓝对抗演练平台1套、AI安全评测平台1套、安全威胁模拟演示场景（AI换脸）1套，具体详见采购文件。\n最高限价（元）：1278000\n合同履约期限：签订合同之日起7个日历日内完成所有安装和调试，通过采购人验收并交付使用。\n本项目（否）接受联合体投标\n备注：\n标项二\n标项名称:AI+安全靶场（2分标）\n数量:不限\n预算金额（元）:1142000\n简要规格描述或项目基本概况介绍、用途：靶场边界应用防护WAF1台、场景安全靶场基础平台1套、场景资源平台1套、安全威胁模拟演示场景（AI视频深度伪造）1套，具体详见采购文件。\n最高限价（元）：1142000\n合同履约期限：签订合同之日起7个日历日内完成所有安装和调试，通过采购人验收并交付使用。\n本项目（否）接受联合体投标\n备注：\n二、申请人的资格要求：\n1.满足《中华人民共和国政府采购法》第二十二条规定；\n2.落实政府采购政策需满足的资格要求：非专门面向中小企业采购的项目；非专门面向中小企业采购的项目\n3.本项目的特定资格要求：分标1：无；分标2：无\n三、获取采购文件\n时间：/至2026年10月19日，每天上午00:00:00至12:00:00，下午12:00:00至23:59:59（北京时间，法定节假日除外）\n地点（网址）：广西政府采购云平台线上获取\n方式：供应商登录广西政府采购云平台https://www.gcy.zfcg.gxzf.gov.cn/在线申请获取采购文件（进入“项目采购”应用，在获取采购文件菜单中选择项目，申请获取采购文件）\n售价（元）：0\n四、响应文件提交\n截止时间：2026年10月19日 09:30（北京时间）\n地点（网址）：请登录广西政府采购云平台投标客户端投标\n五、响应文件开启\n开启时间：2026年10月19日 09:30（北京时间）\n地点：广西政府采购云平台\n六、公告期限\n自本公告发布之日起3个工作日。\n七、其他补充事宜\n1、本项目不收取谈判保证金。\n2、采购意向公开链接：\nhttp://www.ccgp-guangxi.gov.cn/site/detail?categoryCode=ZcyAnnouncement&parentId=66485&articleId=GUhTF32nutp4jB7A4nBugA==（注：本项目不包含算力底座（GPU服务器）、算力底座（基础服务器）采购）\n3、网上查询地址：中国政府采购网（http://www.ccgp.gov.cn）、广西政府采购网（http://zfcg.gxzf.gov.cn）、全国公共资源交易平台（广西 南宁）（http://ggzy.jgswj.gxzf.gov.cn/nnggzy/）\n4、本项目需要落实的政府采购政策：\n（1）政府采购促进中小企业发展。\n（2）政府采购支持采用本国产品的政策。\n（3）强制采购节能产品；优先采购节能产品、环境标志产品。\n（4）政府采购促进残疾人就业政策。\n（5）政府采购支持监狱企业发展。\n（6）扶持不发达地区和少数民族地区政策\n5、谈判注意事项：\n（1）响应文件提交方式：本项目为南宁市全流程电子化政府采购项目，通过“广西政府采购云平台”（http：//www.gcy.zfcg.gxzf.gov.cn）实行在线电子投标，供应商应先安装“广西政府采购云平台电子交易客户端”（请自行前往“广西政府采购云平台”进行下载），并按照本项目采购文件和“广西政府采购云平台”的要求编制、加密后在竞标截止时间前通过网络上传至“广西政府采购云平台”，供应商在“广西政府采购云平台”提交电子版竞标文件时，请填写参加远程开标活动经办人联系方式。\n（2）供应商应及时熟悉掌握电子标系统操作指南（见广西政府采购云平台电子卖场首页右上角—服务中心—帮助文档—项目采购）：\nhttps://service.zcygov.cn/#/knowledges/tree?tag=AG1DtGwBFdiHxlNdhY0r；及时完成CA申领和绑定（见广西壮族自治区政府采购网—办事服务—下载专区-广西政府采购云平台CA证书办理操作指南）。\n（3）未进行网上注册并办理数字证书（CA认证）的供应商将无法参与本项目政府采购活动，潜在供应商应当在投标截止时间前，完成电子交易平台上的CA数字证书办理及投标文件的提交。完成CA数字证书办理预计7日左右，供应商只需办理其中一家CA数字证书及签章，建议各供应商抓紧时间办理。\n（4）为确保网上操作合法、有效和安全，请供应商确保在电子投标过程中能够对相关数据电文进行加密和使用电子签章，妥善保管CA数字证书并使用有效的CA数字证书参与整个采购活动。\n注：竞标人应当在竞标截止时间前完成电子响应文件的上传、递交，竞标截止时间前可以补充、修改或者撤回响应文件。补充或者修改响应文件的，应当先行撤回原文件，补充、修改后重新上传、递交。竞标截止时间前未完成上传、递交的，视为撤回响应文件。竞标截止时间以后上传递交的响应文件，“广西政府采购云平台”将予以拒收。\n6、CA证书在线解密：供应商竞标时，需携带制作投标文件时用来加密的有效数字证书（CA认证）登录“广西政府采购云平台”电子开标大厅现场按规定时间对加密的投标文件进行解密，否则后果自负。\n7、若对项目采购电子交易系统操作有疑问，可登录“广西政府采购云平台”（https://www.gcy.zfcg.gxzf.gov.cn/），点击右侧咨询小采，获取采小蜜智能服务管家帮助，或拨打广西政府采购云平台服务热线95763获取热线服务帮助。\n附件：\n1.CA证书申请方式及操作指南下载地址（登录http://nncz.nanning.gov.cn/（南宁市财政局官网）-业务专题-政府采购监督管理-资料下载-“广西政府采购云平台西部CA办理方式”或“南宁市政府采购云平台CA证书办理操作指南”）\n2.电子投标文件制作与投送教程（在此网址下载：http://nncz.nanning.gov.cn/（南宁市财政局官网）-下载专区）\n八、凡对本次招标提出询问，请按以下方式联系\n1.采购人信息\n名    称：南宁职业技术大学\n地    址：广西壮族自治区南宁市西乡塘区大学西路169号\n项目联系人：王雨\n项目联系方式：0771-2029355\n2.采购代理机构信息\n名    称：广西科文招标有限公司\n地    址：广西南宁市民族大道141号中鼎万象东方D区五层\n项目联系人（询问）：梁栩菁、梁伟贞\n项目联系方式（询问）：0771-2023835\n上一篇：Err:操作超时[公H-NVN]\n下一篇：[广东]惠州市中心人民医院Axesse直线加速器维保服务招标公告\n网站首页|\n关于我们|\n联系方式|\n免责声明|\n版权隐私|\n(c)2008-2025 全国招投标资源交易平台-0301766811-1\n中国招标投标公共服务平台 | 企业信用信息公示系统\n中国招标投标协会 | 中国政府采购网\n支持的CA厂商：北京数字认证BJCA：400-998-2981—新点标证通：400-998-0000—联通CA400-012-6067—天威诚信CA：400-666-3999\nQQ在线咨询\n咨询热线\n扫一扫\n手机访问网站",
+              "content_status": "ok"
+            },
+            {
+              "Id": "1aib3yl39mjhihhjrsk95rpa5lpvj5ri95",
+              "Title": "邯郸市公安局智能算力服务器政府采购意向",
+              "ProjectNo": "",
+              "ChannelName": "政府采购意向",
+              "Province": "河北省",
+              "City": "邯郸市",
+              "IndustryDesc": "通讯电子",
+              "BudgetAmt": "350万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "g35ehyavsvphar9jmas3blasaljlmlkm5k",
+                  "Name": "邯郸市公安局",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "11130400755466968J"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [],
+              "BidProgressList": [
+                "招标公告",
+                "预告"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "https://www.ccgp-hebei.gov.cn/hd/hd/zfcgyxgg/zfcgyx/202610/t20261010_2438137.html",
+              "ContractEndTime": "",
+              "content_text": "您当前位置：\n首页>邯郸市>邯郸市>政府采购意向公告>政府采购意向\n邯郸市公安局本级\n2026年01至12月政府采购意向\n日期：\n2026-10-10\n1#_@_@邯郸市公安局公安智能算力服务器采购项目#_@_@为补齐我局人工智能应用算力短板，需采购智能算力服务器。#_@_@3500000#_@_@2026-12#_@_@ #_@_@\n为便于供应商及时了解政府采购信息，根据《财政部关于开展政府采购意向公开工作的通知》（财库〔2020〕10号）等有关规定，现将\n邯郸市公安局本级\n2026年01至12月采购意向公开如下：\n序号\n采购项目名称\n采购需求概况\n预算金额（万元）\n预计采购时间\n备注\n本次公开的采购意向是本单位政府采购工作的初步安排，具体采购项目情况以相关采购公告和采购文件为准。",
+              "content_status": "ok"
+            },
+            {
+              "Id": "2l9lkyeij3abkssj935bka3939sllv93jj",
+              "Title": "江苏省气象信息中心面向短临预报的华东区域（江苏）气象大数据云平台支撑算力及存储扩充采购项目招标公告",
+              "ProjectNo": "GC-HGX261049",
+              "ChannelName": "公开招标",
+              "Province": "江苏省",
+              "City": "南京市",
+              "IndustryDesc": "通讯电子",
+              "BudgetAmt": "648.8万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-11-02 09:00",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gjjkeyjkjrimhkijb9b9lhvsrlpir5br9h",
+                  "Name": "江苏省气象信息中心",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "123200004660153519"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "g33vvyhpp3skjvbj9asivib9jhm9v5bvlm",
+                  "Name": "中央国家机关政府采购中心",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "121000007178035998"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "2026-11-02 09:00",
+              "ContentUrl": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261010_27457574.html",
+              "ContractEndTime": "",
+              "content_status": "failed",
+              "content_text": ""
+            },
+            {
+              "Id": "2rvkvyrmi5jk3hijpbjrajajasprepb3lj",
+              "Title": "浙江求是招标代理有限公司关于杭州电子科技大学具身智能实验室设备中标结果公告",
+              "ProjectNo": "330000263030150000765-QSZBB260370ZHGKL",
+              "ChannelName": "中标（成交）结果公告",
+              "Province": "浙江省",
+              "City": "杭州市",
+              "IndustryDesc": "通讯电子",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "xb93jyre9ak3r93jvkjakevehm9j35hjb3",
+                  "Name": "杭州电子科技大学",
+                  "Contact": "李老师",
+                  "TelNo": "18100170612",
+                  "CreditCode": "12330000470009026T"
+                }
+              ],
+              "WinBidUnitList": [
+                {
+                  "WinBidAmt": "623000元",
+                  "KeyNo": "aiv9aybsrki9rivj3vir5emmarhi5il9ib",
+                  "Name": "杭州芯潮科技有限公司",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "91330102MADHHEN62P"
+                }
+              ],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "2kmieyei9hmmhphjljlrlajpkaslkb3jrv",
+                  "Name": "浙江求是招标代理有限公司",
+                  "Contact": "陈应俭、俞炳、朱建飞",
+                  "TelNo": "0571-87670302",
+                  "CreditCode": "91330105796697703H"
+                }
+              ],
+              "BidProgressList": [
+                "中标公告",
+                "中标成交"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "https://zfcg.czt.zj.gov.cn/site/detail?parentId=600007&articleId=fBTfh5heCR%2B5C7iv40mbRA%3D%3D",
+              "ContractEndTime": "",
+              "content_text": "上午好，欢迎来到中国政府采购网/中国政府购买服务信息平台-浙江省分网站！\n全省政府网站统一搜索 阅读辅助 进入关怀版 适老化客户端  服务热线：95763\n搜标题\n搜全文\n首页\n资讯动态\n采购公告\n办事指南\n政策法规\n网站工作年度报表\n采购公告 > 政府采购公告 > 采购结果公告 > 中标（成交）结果公告 > 浙江求是招标代理有限公司关于杭州电子科技大学具身智能实验室设备中标结果公告\n立即打印\n立即分享\n公告进度\n采购意向公开\n采购公告\n结果公告\n合同公告\n友情链接\n网站管理：浙江省财政厅政府采购监管处 浙江省政府采购中心 技术支持：政采云股份有限公司\n网站标识码：3300000064 主管单位：浙江省财政厅 主办单位：浙江省数字财政管理中心 联系方式：0571-87058489\n备案序号：浙ICP备06051979号  浙公网安备：33010602002803号\n网站地图\n政采云平台微信公众号",
+              "content_status": "ok"
+            },
+            {
+              "Id": "fhimeyhsippaiskjpjaj3ee99lhrr9ae3j",
+              "Title": "天津铁道职业技术学院动车组装调师和人工智能训练师技能培训采购项目（2026年国家级高技能人才培训基地项目）采购公告",
+              "ProjectNo": "",
+              "ChannelName": "需求公示",
+              "Province": "天津市",
+              "City": "",
+              "IndustryDesc": "服务采购",
+              "BudgetAmt": "30万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "xaipryj5vi53a5hjpr5hh9i95sbma53ml5",
+                  "Name": "天津铁道职业技术学院",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "12120000401357422B"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "g9ka9yrme3ialiijhbjakm3v5ii5ahk9i5",
+                  "Name": "天津市政府采购中心",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "12120000MB1E44809C"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "http://tjgpc.zwfwb.tj.gov.cn/webInfo/getWebInfoByPkWebInfoId1.do?pkWebInfoId=F8913364-8D64-41CB-B410-BAF836437D2A",
+              "ContractEndTime": "",
+              "content_text": "首页\n中心简介\n重要通知\n项目信息\n政策法规\n下载中心\n服务指南\n联系我们\n您的当前位置：首页>>项目信息>>需求公示>>需求征求意见\n天津铁道职业技术学院动车组装调师和人工智能训练师技能培训采购项目（2026年国家级高技能人才培训基地项目）征求意见函\n【信息时间：2026-10-10】\n致相关采购当事人：\n为了保障政府采购各方当事人的合法权益及采购程序的公开、公平、公正性，我中心受天津铁道职业技术学院委托将对天津铁道职业技术学院动车组装调师和人工智能训练师技能培训采购项目（2026年国家级高技能人才培训基地项目）实施政府采购。现将采购人提供的项目需求原文转发（详细技术需求见附件——项目需求书），广泛征求各方意见，诚请相关采购当事人依法提出项目需求书中存在的问题。我中心将提出的意见及时转交采购人，并请采购人依据相关法律法规完善技术需求。征求意见时间自2026年10月12日至2026年10月14日16:00。\n采购当事人提出的意见函应符合以下条件：\n1、在征求意见有效期内提出，并以加盖公章的书面原件方式或传真方式送达我中心。逾期送达、匿名送达以及其他不符合上述条件的意见函件我中心不予受理。\n2、对于项目整体需求不满足三个品牌产品或三家供应商的；需求中个别条款的描述具有倾向性或排斥性提出意见的，采购当事人应明确指出可能涉及的品牌或供应商。\n3、意见函件应注明联系人和联系方式。\n感谢您的参与。\n征求意见受理时限：三个工作日\n联系电话：022-24538316\n传真：022-24538715\n天津市政府采购中心\n2026年10月10日\n天津铁道职业技术学院动车组装调师和人工智能训练师技能培训采购项目（2026年国家级高技能人才培训基地项目）需求书供应商意见函\n天津市政府采购中心：\n___________________________需求书，现提出意见如下：\n□ 资质要求具有倾向性（详见附件）\n□ 技术需求具有倾向性（详见附件）\n单位名称：\n联系人：\n联系电话：\n年x月x日\n附件：对___________________________需求书的详细意见\n第一包 项目需求书-人工智能训练师-软件及前端设备.docx\n第二包 项目需求书-人工智能训练师-服务器及计算机.docx\n第三包 项目需求书-动车组装调师.doc\n中心简介|政策法规|联系我们 |加入收藏\n天津市公共资源交易中心（天津市政府采购中心）中心纪委电话（传真）：022-24532007；中心纪委电子邮箱：ggzydqc@tj.gov.cn\n主办：天津市公共资源交易中心（天津市政府采购中心） 版权所有 © 承办：天津市政府采购中心 津ICP备2021000904号 网站标识码:12BM010008\n津公网安备 12010202000326号",
+              "content_status": "ok"
+            },
+            {
+              "Id": "3ka3eyeplbp9l3pjvipj3kll3lk5ssrp3j",
+              "Title": "宁波银行算力基础设施建设项目更正公告",
+              "ProjectNo": "CBNB-20262570",
+              "ChannelName": "变更公告",
+              "Province": "浙江省",
+              "City": "宁波市",
+              "IndustryDesc": "市政基建",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-20 14:00",
+              "ObtainEndDate": "2026-10-16 23:59",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "eihhey5kls9sv33jahjsel9s9e3b5mrskr",
+                  "Name": "宁波银行股份有限公司",
+                  "Contact": "宋老师",
+                  "TelNo": "0574-81871844",
+                  "CreditCode": "91330200711192037M"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "ajviryvk33ii5l5je9emaspepksj5pehej",
+                  "Name": "宁波中基国际招标有限公司",
+                  "Contact": "陈冲、黄栋楹、史维、陈俊、吕昕烨",
+                  "TelNo": "0574-87425731、87420285",
+                  "CreditCode": "91330203764525253Q"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "变更"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "https://ygcg.nbcqjy.org/detail?bulletinId=ba2c9d75-5b5e-47ee-a1fb-1a6fbeb489f2",
+              "ContractEndTime": "",
+              "content_text": "首 页\n平台介绍\n平台动态\n公告公示\n近期开标\n政策法规\n用户指引\n诚信专栏\n您好，欢迎访问宁波市阳光采购服务平台\n2026年10月13日 星期二\n注册会员\n宁波市阳光采购服务平台\nNINGBO SUNSHINE PURCHASING SERVICE PLATFORM\n—— 阳光、规范、专业、高效 ——\n搜 索\n当前位置： 首页详情\n发布日期： 阅读人数：\nCopyright @ 宁波产权交易中心版权所有\n主办单位：宁波产权交易中心有限公司\n阳光采购平台业务进场咨询：0574-88029656(王)\n87010159(胡)、87010169(江)\n阳光采购平台专家管理咨询：0574-88029925\n保证金收退及发票管理咨询电话：0574-88307965(洪)\n浙ICP备11064635号\n通讯地址：\n技术问题咨询QQ群：627476062 425851404\n电子投标及技术支持电话：0574-26877268 13396609883\n阳光采购平台信息技术部：0574-87187195\n天谷CA：400-087-8198 转6 天威诚信：0574-87329560\n关注公众号\n电话咨询时间：工作日9:00-12:00 13:30-17:00\n【24小时智能语音客服热线】0574-26868888\n微信小程序\n会员注册\n会员管理\n开标直播\n网上评标\nCA办理\n工具下载",
+              "content_status": "ok"
+            },
+            {
+              "Id": "6vrajyevbkjvpaijleeevvi9v5bpahpkhv",
+              "Title": "辽宁港口股份有限公司 油品码头无人化电子理货系统建设项目-询比采购公告",
+              "ProjectNo": "G1100000175290903001",
+              "ChannelName": "采购公告",
+              "Province": "辽宁省",
+              "City": "大连市",
+              "IndustryDesc": "交通运输",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-14 10:00",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "5sishyrpjb3evjkjh3sbvelaahik99h5sj",
+                  "Name": "辽宁港口股份有限公司",
+                  "Contact": "路建奇",
+                  "TelNo": "13804170057",
+                  "CreditCode": "91210200782451606Q"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "1ijejypbsha3jbrj95h59eemvs9hls5vee",
+                  "Name": "辽宁港口集团有限公司",
+                  "Contact": "路建奇",
+                  "TelNo": "13604094888",
+                  "CreditCode": "91211500MA0UPLRL1C"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "2026-10-14 10:00",
+              "ContentUrl": "https://dzzb.ciesco.com.cn/zsj-portal/trade-infomation/detail/purchase-notice?zbFangShi=1&xinXiLaiYuan=3&banBenHao=2&guid=ce9969ff-bc45-4118-8706-0eda9d9a462c&xmBH=G1100000175290903001&bdBH=&noticeType=1",
+              "ContractEndTime": "",
+              "content_status": "failed",
+              "content_text": ""
+            },
+            {
+              "Id": "8ikiryhkp5ir5a5jkbrk3sim3plile5hjh",
+              "Title": "景德镇学院信？学院实验室建设项目公开招标公告",
+              "ProjectNo": "JXXT2026063号",
+              "ChannelName": "采购公告",
+              "Province": "江西省",
+              "City": "景德镇市",
+              "IndustryDesc": "工程建筑",
+              "BudgetAmt": "159.175万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-11-04 09:30",
+              "ObtainEndDate": "2026-10-17 00:00",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "xlaihyejr5klmbmjrlrk9albrmkvml3spj",
+                  "Name": "景德镇学院",
+                  "Contact": "",
+                  "TelNo": "15879489688",
+                  "CreditCode": "12360200491241529U"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "0hlmryvplemjb5rjmajh9shrhhihhi5slb",
+                  "Name": "江西鑫田招标咨询有限公司",
+                  "Contact": "齐女士、胡女士",
+                  "TelNo": "0798-8510808",
+                  "CreditCode": "91360200677992347Y"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "2026-11-04 09:30",
+              "ContentUrl": "https://zfcg.jxf.gov.cn/maincms-web/articleJx?type=notice&id=27195fda-c395-4e22-808c-6d884ff7c657&planId=8a1d0812a1004abc01a118f266423d38&channel=58d8630f-7191-41a5-921a-db6a0b74f367",
+              "ContractEndTime": "",
+              "content_status": "failed",
+              "content_text": ""
+            },
+            {
+              "Id": "bvsjjy3asapjhejjklmm9kiimlpvkib3h5",
+              "Title": "株洲市二中学生计算机机房设备采购项目竞争性谈判更正公告",
+              "ProjectNo": "CGXM2026430200000088",
+              "ChannelName": "更正公告",
+              "Province": "湖南省",
+              "City": "株洲市",
+              "IndustryDesc": "机械设备",
+              "BudgetAmt": "83.861万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-22 09:30",
+              "ObtainEndDate": "2026-10-19 17:00",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gp9jbyilpeisrbvjilsihplklh3mshshks",
+                  "Name": "株洲市第二中学",
+                  "Contact": "",
+                  "TelNo": "0731-28839209",
+                  "CreditCode": "12430200445177343Q"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "ckjrsy99a9jmhjmjpksvaeap3eee3rbs5a",
+                  "Name": "湖南中招项目管理有限公司",
+                  "Contact": "",
+                  "TelNo": "17770906578",
+                  "CreditCode": "91430105796898089P"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "变更"
+              ],
+              "BidEndDate": "2026-10-22 09:30",
+              "ContentUrl": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202610/t20261010_27457415.htm",
+              "ContractEndTime": "",
+              "content_text": "财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站\n服务热线：400-810-1996    |   服务投诉：010-63819289\n首页\n政采法规\n购买服务\n监督检查\n信息公告\n国际专栏\n当前位置：首页 »\n政采公告 » 地方公告 » 更正公告\n株洲市二中学生计算机机房设备采购项目竞争性谈判更正公告\n2026年10月10日 09:58 来源： 【打印】\n公告概要：\n公告信息：\n采购项目名称\n株洲市二中学生计算机机房设备采购项目\n品目\n采购单位\n株洲市第二中学\n行政区域\n湖南省\n公告时间\n2026年10月10日  09:58\n首次公告日期\n2026年10月10日\n更正日期\n2026年10月10日\n联系人及联系方式：\n项目联系人\n何老师\n项目联系电话\n13607330403\n采购单位\n株洲市第二中学\n采购单位地址\n株洲市天元区博古山东路728号\n采购单位联系方式\n0731-28839209\n代理机构名称\n湖南中招项目管理有限公司\n代理机构地址\n长沙市开福区芙蓉中路（湖南财富中心富座2903房）\n代理机构联系方式\n17770906578\n株洲市二中学生计算机机房设备采购项目竞争性谈判更正公告\n一、项目基本情况\n原公告的采购项目编号：CGXM2026430200000088\n原公告的采购项目名称：株洲市二中学生计算机机房设备采购项目\n原公告的采购计划备案号：(2026)430200000069-1\n首次公告日期：2026年10月10日\n原公告开标时间：2026年10月22日 09时30分00秒\n二、更正信息\n更正事项：        ☑            采购公告        ☐            采购文件\n更正内容：\n更正前内容\n公告第三条：2、落实政府采购政策需满足的资格要求：包名称：株洲市二中学生计算机房设备采购项目☑ 专门面向中小企业（含监狱及福利性单位）本项目为非专门面向中小企业（含监狱及福利性单位）\n更正后内容\n公告第三条：2、落实政府采购政策需满足的资格要求：包名称：株洲市二中学生计算机房设备采购项目☐ 专门面向中小企业（含监狱及福利性单位）本项目为非专门面向中小企业（含监狱及福利性单位）\n更正日期：2026年10月10日\n三、疑问及质疑\n本更正公告为招标文件的组成部分，招标文件如涉及上述内容的应作相应调整和修改，若本更正公告与原招标文件内容有不一致之处，应以本更正公告为准。\n供应商认为本更正内容存在歧视性的，应在更正公告发布之日起七个工作日内以书面形式向采购人、代理机构提出。\n四、其他补充事宜\n暂无\n五、凡对本次公告内容提出询问，请按以下方式联系。\n1.采购人信息\n名 称： 株洲市第二中学\n地 址： 株洲市天元区博古山东路728号\n联系方式： 0731-28839209\n2.采购代理机构信息（如有）\n名 称： 湖南中招项目管理有限公司\n地 址： 长沙市开福区芙蓉中路（湖南财富中心富座2903房）\n联系方式： 17770906578\n3.项目联系方式\n项目联系人： 何老师\n电 话： 13607330403\n附件：\n采购文件\n相关公告\n主办单位：中华人民共和国财政部国库司\n网站标识码：bm14000002  |  京ICP备19054529号-1  |  京公网安备11010602060068号\n© 1999- 中华人民共和国财政部 版权所有  |  联系我们  |  意见反馈",
+              "content_status": "ok"
+            },
+            {
+              "Id": "7rkvsysih5ilihjjlbrmsvshilveksp39e",
+              "Title": "采购65英寸室外AI智慧校园移动体测一体机 竞价公告",
+              "ProjectNo": "62026100912769638",
+              "ChannelName": "邀请公告",
+              "Province": "江西省",
+              "City": "九江市",
+              "IndustryDesc": "机械设备",
+              "BudgetAmt": "5万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gv93kyplvbpk3a3jal5khhkjpkvi95vhb5",
+                  "Name": "修水县第二中学",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "12360424491510514P"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "2026-10-14 18:00",
+              "ContentUrl": "https://www.jxemall.com/luban/announcement/detail?encryptId=cmqcb+VVQtSDLuwdA2iPl4TwhJI3yMqKEmeFXDD+K4I=",
+              "ContractEndTime": "",
+              "content_status": "failed",
+              "content_text": ""
+            },
+            {
+              "Id": "cms9by55pjl5h9ejhsalb5j3sbp39pkpjj",
+              "Title": "株洲市第二中学株洲市二中学生计算机机房设备采购项目竞争性谈判公告",
+              "ProjectNo": "CGXM2026430200000088",
+              "ChannelName": "竞争性谈判",
+              "Province": "湖南省",
+              "City": "株洲市",
+              "IndustryDesc": "机械设备",
+              "BudgetAmt": "83.861万元",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "2026-10-22 09:30",
+              "ObtainEndDate": "2026-10-19 17:00",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "gp9jbyilpeisrbvjilsihplklh3mshshks",
+                  "Name": "株洲市第二中学",
+                  "Contact": "何老师",
+                  "TelNo": "13607330403",
+                  "CreditCode": "12430200445177343Q"
+                }
+              ],
+              "WinBidUnitList": [],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "ckjrsy99a9jmhjmjpksvaeap3eee3rbs5a",
+                  "Name": "湖南中招项目管理有限公司",
+                  "Contact": "朱海宁",
+                  "TelNo": "17770906578",
+                  "CreditCode": "91430105796898089P"
+                }
+              ],
+              "BidProgressList": [
+                "招标公告",
+                "招标"
+              ],
+              "BidEndDate": "2026-10-22 09:30",
+              "ContentUrl": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202610/t20261010_27457353.htm",
+              "ContractEndTime": "",
+              "content_text": "财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站\n服务热线：400-810-1996    |   服务投诉：010-63819289\n首页\n政采法规\n购买服务\n监督检查\n信息公告\n国际专栏\n当前位置：首页 »\n政采公告 » 地方公告 » 竞争性谈判公告\n株洲市第二中学株洲市二中学生计算机机房设备采购项目竞争性谈判公告\n2026年10月10日 09:49 来源： 【打印】\n公告概要：\n公告信息：\n采购项目名称\n株洲市二中学生计算机机房设备采购项目\n品目\n采购单位\n株洲市第二中学\n行政区域\n湖南省\n公告时间\n2026年10月10日  09:49\n获取采购文件的地点\n株洲市天元区泰山西路高科智尚科技大厦703室\n获取采购文件时间\n2026年10月15日至2026年10月19日\n每日上午:9:00 至 12:00  下午:14:00 至 17:00（北京时间，法定节假日除外）\n预算金额\n￥83.861000万元（人民币）\n联系人及联系方式：\n项目联系人\n详情见公告正文\n项目联系电话\n详情见公告正文\n采购单位\n株洲市第二中学\n采购单位地址\n株洲市天元区博古山东路728号\n采购单位联系方式\n13607330403\n代理机构名称\n湖南中招项目管理有限公司\n代理机构地址\n长沙市开福区芙蓉中路（湖南财富中心富座2903房）\n代理机构联系方式\n17770906578\n株洲市第二中学株洲市二中学生计算机机房设备采购项目项目竞争性谈判邀请公告\n株洲市第二中学的株洲市二中学生计算机机房设备采购项目    进行竞争性谈判采购，现采用发布公告方式，邀请符合资格条件的供应商提交证明材料参与资格审查活动。\n项目概况\n株洲市二中学生计算机机房设备采购项目采购项目的潜在供应商应在（株洲市天元区泰山西路高科智尚科技大厦703室        ）获取采购文件，并于2026年10月22日 09点30分        （北京时间）前提交响应文件。\n一、采购项目基本信息\n1、采购项目编号：CGXM2026430200000088\n2、采购项目名称：株洲市二中学生计算机机房设备采购项目\n3、政府采购计划编号：(2026)430200000069-1\n4、合同履行期限：株洲市二中学生计算机房设备采购项目：合同签订后 30 日内完成供货，并安装调试合格；\n5、本项目   否 接受联合体投标。\n二、采购需求\n包名称\n预算金额（元）\n最高限价（元）\n标的名称\n简要技术需求或服务要求\n数量\n株洲市二中学生计算机房设备采购项目\n838610.00\n838610.00\n株洲市二中学生计算机机房设备采购项目\n项目已纳入株洲市2026年扩充优质普通高中公办学位资金预算，现拟对株洲市二中学生计算机房设备采购项目进行采购，用于满足学生计算机教学需要及相关考试培训，主要包含：云桌面服务器、云桌面系统、云桌面教师终端、云桌面学生终端、云桌面终端软件授权、云桌面教学管理软件、24口交换机、48口交换机、防静电地板、机房布线、摄像机、电脑桌椅、讲台、智慧无尘黑板、耳机等相关设施，具体要求详见采购需求。\n1\n三、供应商的资格要求\n1、供应商的基本资格条件：\n（1）供应商必须是在中华人民共和国境内注册登记的法人、其他组织或者自然人，且应当符合《政府采购法》第二十二条第一款的规定。\n（2）单位负责人为同一人或者存在直接控股、管理关系的不同投标人，不得参加同一合同项下的政府采购活动。\n（3）        为本采购项目提供整体设计、规范编制或者项目管理、监理、检测等服务的，不得再参加此项目的其他采购活动。\n（4）列入失信被执行人、重大税收违法失信主体名单、政府采购严重违法失信行为记录名单的，拒绝其参与政府采购活动。\n2、落实政府采购政策需满足的资格要求：\n包名称：株洲市二中学生计算机房设备采购项目\n☑ 专门面向中小企业（含监狱及福利性单位）\n3、供应商特定资格条件：\n包名称：株洲市二中学生计算机房设备采购项目\n特定资格条件：无\n四、获取采购文件的时间、期限、地点及方式\n1、时间：2026年10月15日至2026年10月19日，每天上午9:00:00    至12:00:00，下午14:00至17:00（北京时间，法定节假日除外）\n2、地点：株洲市天元区泰山西路高科智尚科技大厦703室\n3、方式：线下获取\n4、售价：0元\n五、响应文件提交截止时间、地点\n1、截止时间：2026年10月22日 09点30分（北京时间）\n2、地点：株洲市天元区泰山西路高科智尚科技大厦703室\n六、响应文件开启\n1、开启时间：2026年10月22日 09点30分（北京时间）\n2、地点：株洲市天元区泰山西路高科智尚科技大厦703室\n七、公告期限\n1、本公告在中国湖南政府采购网（www.ccgp-hunan.gov.cn）发布。公告期限从本公告发布之日起3个工作日。\n2、在其他媒体发布的邀请公告，公告内容以本公告为准。\n八、询问及质疑\n1、供应商对政府采购活动事项如有疑问的，可以向采购人、采购代理机构提出询问。采购人、采购代理机构将在3个工作日内作出答复。\n2、供应商认为采购文件或本公告使自己的合法权益受到损害的，可以在收到采购文件之日或本公告期限届满之日起7个工作日内，按《湖南省财政厅关于印发＜政府采购质疑答复和投诉处理操作规程＞的通知》(湘财购〔2024〕67号)规定，以纸质书面形式向采购人、采购代理机构提出质疑。\n九、谈判说明\n1、本公告选项：☑ 表示选择，☐ 表示未选择。\n2、供应商参与政府采购活动，无需向采购人、代理机构、交易平台缴纳任何费用。\n十、其他补充事宜\n暂无\n十一、对本次招标提出询问，请按以下方式联系\n采购人信息\n名称：株洲市第二中学\n地址：株洲市天元区博古山东路728号\n联系人：何老师\n联系电话：13607330403\n采购代理机构信息\n名称：湖南中招项目管理有限公司\n地址：长沙市开福区芙蓉中路（湖南财富中心富座2903房）\n联系人：朱海宁\n联系电话：17770906578\n项目联系方式\n项目联系人：何老师\n电话：13607330403\n附件：\n株洲市二中学生计算机房设备采购项目附件.docx\n相关公告\n主办单位：中华人民共和国财政部国库司\n网站标识码：bm14000002  |  京ICP备19054529号-1  |  京公网安备11010602060068号\n© 1999- 中华人民共和国财政部 版权所有  |  联系我们  |  意见反馈",
+              "content_status": "ok"
+            },
+            {
+              "Id": "33pvlyhe3lp5l9rjj5eaksrjlj5i3me9kl",
+              "Title": "山西一体化算力网络枢纽项目（第一部分）机柜机架及配套工程中标结果公示",
+              "ProjectNo": "E1401005031300901003",
+              "ChannelName": "招标信息",
+              "Province": "山西省",
+              "City": "太原市",
+              "IndustryDesc": "家居建材",
+              "BudgetAmt": "",
+              "PublishDate": "2026-10-10",
+              "OpenDate": "",
+              "ObtainEndDate": "",
+              "BidInviUnitList": [
+                {
+                  "KeyNo": "7ajsiylmvaja3vkjl5bjlssbi5ebs3hb93",
+                  "Name": "山西算力网络枢纽节点建设运营有限公司",
+                  "Contact": "王晓蕊、阎奇",
+                  "TelNo": "0351-5225398",
+                  "CreditCode": "91149900MACA4PJU4K"
+                }
+              ],
+              "WinBidUnitList": [
+                {
+                  "WinBidAmt": "5895.978108万元",
+                  "KeyNo": "6vrvlymkbvb5r3lja3rjsb9marlm5pm59s",
+                  "Name": "山西省安装集团股份有限公司",
+                  "Contact": null,
+                  "TelNo": null,
+                  "CreditCode": "91140000110011149W"
+                }
+              ],
+              "AgentUnitList": [
+                {
+                  "KeyNo": "fviehykajbea3l9jl33epaam3lra5lmlbb",
+                  "Name": "中喆项目管理有限公司",
+                  "Contact": "王建军、段宣忠、张凯、欧阳竹筠、闫凯丽、赵爱玲、吴瑞霞",
+                  "TelNo": "0351-5604330、15340660202",
+                  "CreditCode": "91140109MA0K3C127H"
+                }
+              ],
+              "BidProgressList": [
+                "中标公告",
+                "中标成交"
+              ],
+              "BidEndDate": "",
+              "ContentUrl": "https://www.jcebid.com/announcement/view/6ac991e826d1912e8db62e9c",
+              "ContractEndTime": "",
+              "content_text": "当前网站访问量较高，请先完成验证\n提 交",
+              "content_status": "ok"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

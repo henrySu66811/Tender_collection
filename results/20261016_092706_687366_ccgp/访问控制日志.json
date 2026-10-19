@@ -1,0 +1,41 @@
+{
+  "http_requests": 892,
+  "detail_attempts": 790,
+  "stopped_reason": "中国政府采购网提示访问过于频繁；已停止本次采集，请稍后再运行",
+  "events": [
+    {
+      "event": "robots_response",
+      "url": "https://search.ccgp.gov.cn/robots.txt",
+      "status": 404,
+      "headers": {
+        "content-type": "text/html; charset=UTF-8",
+        "server": "nginx"
+      }
+    },
+    {
+      "event": "robots",
+      "origin": "https://search.ccgp.gov.cn",
+      "status": 404,
+      "rules_text": ""
+    },
+    {
+      "event": "robots_response",
+      "url": "http://www.ccgp.gov.cn/robots.txt",
+      "status": 404,
+      "headers": {
+        "content-type": "text/html",
+        "server": "openresty"
+      }
+    },
+    {
+      "event": "robots",
+      "origin": "http://www.ccgp.gov.cn",
+      "status": 404,
+      "rules_text": ""
+    },
+    {
+      "event": "stopped",
+      "reason": "中国政府采购网提示访问过于频繁；已停止本次采集，请稍后再运行"
+    }
+  ]
+}
