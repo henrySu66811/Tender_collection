@@ -3,14 +3,14 @@ from pathlib import Path
 # 添加网站后，在registry.py注册并加入SITES。
 # 单站点运行时只保留一个站点。
 # 同一站点不能重复，程序也会在启动前进行校验。
-SITES = ["zycg"]
-MAX_SITE_PROCESSES = 2
+SITES = ["ccgp"]   # 可选"ccgp", "shandong_ggzy", "zycg",
+MAX_SITE_PROCESSES = 1
 KEYWORDS = ["招标"]   
-PER_KEYWORD = 22
+PER_KEYWORD = 70
 # 山东公共资源和中国政府采购网使用这两个日期；可用 YYYY-MM-DD、today、yesterday。
-# 中央政府采购网（zycg）没有日期检索选项，仍保持最近一年逻辑。
-START_DATE = "2026-10-13"  # 可填 today、yesterday 或 2026-10-14 格式
-END_DATE = "2026-10-13"
+# 中央政府采购网（zycg）没有日期检索选项，仍保持最近一年逻辑。（zycg信息太少）
+START_DATE = "today"  # 可填 today、yesterday 或 2026-10-14 格式
+END_DATE = "today"
 BASE_DIR = Path(__file__).resolve().parent.parent
 OUTPUT_DIR = BASE_DIR / "results"
 # JSON 已包含完整正文；默认不再额外保存逐条正文 TXT。

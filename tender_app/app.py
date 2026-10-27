@@ -32,6 +32,7 @@ from .config import (
     CCGP_REQUEST_JITTER,
 )
 
+from urllib.parse import urlsplit
 
 def open_login_entry(page, primary_url, run_dir, *, fallback_url=None):
     """打开可用的登录入口；HTTP错误时尝试备用入口并保存诊断。"""
@@ -246,6 +247,30 @@ def run_site(site_key):
             context_options["user_agent"] = CRAWLER_USER_AGENT
             context = browser.new_context(**context_options)
             context.set_default_timeout(60000)
+   # =================================================================
+    # 中国政府采购网页引用的外部脚本 dcs.conac.cn 连接异常，拖住了页面加载，启动拦截。     
+            if site_key == "ccgp":
+                def filter_ccgp_resource(route):
+                    request = route.request
+                    parsed = urlsplit(request.url)
+
+                    if (
+                        request.resource_type == "script"
+                        and parsed.hostname == "dcs.conac.cn"
+                        and parsed.path
+                        == "/js/33/000/0000/60425889/CA330000000604258890010.js"
+                    ):
+                        route.abort()
+                        return
+
+                    # 交给后续路由，保留原有访问策略。
+                    route.fallback()
+
+                def install_ccgp_filter(new_page):
+                    new_page.route("**/*", filter_ccgp_resource)
+
+                context.on("page", install_ccgp_filter)
+   # ==================================================================
             page = context.new_page()
 
             open_login_entry(page, site.entry_url, RUN_DIR)

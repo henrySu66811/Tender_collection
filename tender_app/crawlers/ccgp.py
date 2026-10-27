@@ -85,7 +85,7 @@ class CcgpCrawler(TenderCrawler):
     def open_search(self, keyword, page_number, start_date, end_date):
         self.policy.check()
         url = self.build_search_url(keyword, page_number, start_date, end_date)
-        try:
+        try:                                                        # 搜索列表页导航超时时间
             response = self.page.goto(url, wait_until="domcontentloaded", timeout=90000)
         except PlaywrightTimeoutError:
             self.policy.check()
